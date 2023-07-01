@@ -13,7 +13,7 @@ body {
   color: #212121;
   font-size: 14px;
   font-weight: 500;
-  line-height: 1.1;
+  line-height: 1.1em;
 }
 .link_Studio:hover,
 .link_Studio:focus{
@@ -23,7 +23,7 @@ body {
   color: #212121;
   font-size: 14px;
   font-weight: 500;
-  line-height: 1.1;
+  line-height: 1.1em;
 }
 .link_Portfolio:hover,
 .link_Portfolio:focus{
@@ -33,7 +33,7 @@ body {
   color: #212121;
   font-size: 14px;
   font-weight: 500;
-  line-height: 1.1;
+  line-height: 1.1em;
 }
 .link_Contact:hover,
 .link_Contact:focus{
