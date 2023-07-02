@@ -79,16 +79,14 @@ h1{
 .buy{
     width: 216px;
     height:50px;
+    font-size:16px;
+    font-weight:700;
+    color: #FFFFFF;
     background:#2196f3;
 }
 .buy:hover,
 .buy:focus{
     background:#757575;
-}
-.buy_1{
-    font-size: 16px;
-    font-weight:700;
-    color:white;
 }
 .hero{
     background: #2F303A;
