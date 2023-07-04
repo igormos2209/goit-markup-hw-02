@@ -164,8 +164,7 @@ footer{
 .btn_1,.btn_2,.btn_3,
 .btn_4,.btn_5{
     height:38px;
-    color: #FFFFFF;
-    background: #2196f3;
+    background: #F5F4FA;
     font-size:16px;
     font-weight:500;
     line-height:1.6;
@@ -190,7 +189,8 @@ footer{
 .btn_3:hover,.btn_3:focus,
 .btn_4:hover,.btn_4:focus,
 .btn_5:hover,.btn_5:focus{
-    background:#757575;
+    background:#2196f3;
+    color:white;
 }
 .gallery_2{
     list-style-type: none;
